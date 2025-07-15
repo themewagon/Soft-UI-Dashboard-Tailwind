@@ -1,8 +1,8 @@
-# Si-Educational Free Next.js Educational Website Template
+# Soft-UI-Dashboard-Tailwind
 
 ## 🚀 Preview
 
-- [Live Demo](https://themewagon.github.io/si-educational-nextjs/)
+- [Live Demo](https://themewagon.github.io/Soft-UI-Dashboard-Tailwind/)
 
 ## 📥 Download
 
@@ -13,27 +13,18 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/themewagon/si-educational-nextjs.git
+   git clone https://github.com/themewagon/Soft-UI-Dashboard-Tailwind
    ```
 
-```
 2. Install Dependencies
+
 ```
 
 npm i
 
-````
-3. Run the development server:
+```
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-````
+3. View the site locally
 
 ## Author
 
@@ -44,3 +35,8 @@ This template adapts their work for an educational website.
 
 - Design and code © [Creative Tim](https://www.creative-tim.com/)
 - Licensed under the [MIT License](https://github.com/creativetimofficial/soft-ui-dashboard-tailwind/blob/main/LICENSE.md)
+- Distributed by [ThemeWagon](https://themewagon.com)
+
+```
+
+```
