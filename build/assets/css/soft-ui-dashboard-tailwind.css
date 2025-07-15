@@ -2521,6 +2521,11 @@ h6 {
   color: rgb(73 80 87 / var(--tw-text-opacity, 1));
 }
 
+.text-gray-800 {
+  --tw-text-opacity: 1;
+  color: rgb(37 47 64 / var(--tw-text-opacity, 1));
+}
+
 .text-inherit {
   color: inherit;
 }
@@ -2533,6 +2538,11 @@ h6 {
 .text-neutral-900 {
   --tw-text-opacity: 1;
   color: rgb(17 17 17 / var(--tw-text-opacity, 1));
+}
+
+.text-red-500 {
+  --tw-text-opacity: 1;
+  color: rgb(245 57 57 / var(--tw-text-opacity, 1));
 }
 
 .text-red-600 {
