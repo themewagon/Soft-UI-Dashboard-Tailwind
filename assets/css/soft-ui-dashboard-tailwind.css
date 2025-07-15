@@ -1954,12 +1954,6 @@ h6 {
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
-.from-gray-400 {
-  --tw-gradient-from: #ced4da var(--tw-gradient-from-position);
-  --tw-gradient-to: rgb(206 212 218 / 0) var(--tw-gradient-to-position);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
-}
-
 .from-gray-900 {
   --tw-gradient-from: #141727 var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(20 23 39 / 0) var(--tw-gradient-to-position);
@@ -2014,10 +2008,6 @@ h6 {
 
 .to-cyan-400 {
   --tw-gradient-to: #21d4fd var(--tw-gradient-to-position);
-}
-
-.to-gray-100 {
-  --tw-gradient-to: #ebeff4 var(--tw-gradient-to-position);
 }
 
 .to-lime-400 {
@@ -2583,11 +2573,6 @@ h6 {
 .text-slate-700 {
   --tw-text-opacity: 1;
   color: rgb(52 71 103 / var(--tw-text-opacity, 1));
-}
-
-.text-slate-800 {
-  --tw-text-opacity: 1;
-  color: rgb(58 65 111 / var(--tw-text-opacity, 1));
 }
 
 .text-transparent {
