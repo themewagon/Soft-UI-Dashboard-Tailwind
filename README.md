@@ -24,8 +24,6 @@ npm i
 
 ```
 
-3. View the site locally
-
 ## Author
 
 Design and UI concepts are crafted by the [Creative Tim](https://www.creative-tim.com/) team, based on their Soft UI Dashboard Tailwind product.
@@ -34,7 +32,7 @@ This template adapts their work for an educational website.
 ## License
 
 - Design and code © [Creative Tim](https://www.creative-tim.com/)
-- Licensed under the [MIT License](https://github.com/creativetimofficial/soft-ui-dashboard-tailwind/blob/main/LICENSE.md)
+- Licensed under the [MIT License]
 - Distributed by [ThemeWagon](https://themewagon.com)
 
 ```
