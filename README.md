@@ -6,7 +6,7 @@
 
 ## 📥 Download
 
-- [Download from Creative Tim](https://www.creative-tim.com/product/soft-ui-dashboard-tailwind?ref=readme-sudt)
+- [Download from ThemeWagon](https://themewagon.com/themes/softui-tailwind/)
 
 ## 🛠 Getting Started
 
